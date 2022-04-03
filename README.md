@@ -57,3 +57,6 @@ These two tables compare the top starting and ending locations for riders.  It i
 ![Tableau Images/top starting locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20starting%20locations.png)
 
 ![Tableau Images/top ending locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20ending%20locations.png)
+
+**SUMMARY**
+According to the data analysis, it appears that a bike sharing business could be profitable if Des Moines also has a large number of commuting males.  It seems that a popular time to ride for all people is during the weekends.  It might be viable to conduct further analysis of the commuting population in Des Moines to determine if this would be a profitable business venture. It may also be helpful to further analyze start and ending locations for the Des Moines area so that there would be available bikes when needed by subscribers and customers.
