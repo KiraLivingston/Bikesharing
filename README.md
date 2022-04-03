@@ -2,7 +2,7 @@
 **CITIBIKE ANALYSIS**
 
 **OVERVIEW**
-PURPOSE:Investors from Des Moines are interested in creating a new bike-sharing program.  The purpose of this challenge is to use Tabluau to create visualizations from New York City Data to show investors whether or not a bike sharing program could also be a successful business in Des Moines.
+Investors from Des Moines are interested in creating a new bike-sharing program.  The purpose of this challenge is to use Tabluau to create visualizations from New York City Data to show investors whether or not a bike sharing program could also be a successful business in Des Moines.
 
 **RESOURCES**
 -Data Files: 201908-citibike-tripdata.csv, 201908-citibike-tripdata-modified.csv
