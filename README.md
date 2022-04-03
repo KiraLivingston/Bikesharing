@@ -39,6 +39,9 @@ This analysis compares the useage between customers and subscribers, with gender
 ![Tableau Images/Trips by gender by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender%20by%20weekday.png)
 
 **Visual 5**
+This table shows the use of bikes according to start and stop time by the hours of the day and days of the week.  It appears that weekday commuting hours and weekend mid morning to evening hours see the peak use.
+
+**Visual 6**
 
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
 
