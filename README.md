@@ -10,7 +10,7 @@ Investors from Des Moines are interested in creating a new bike-sharing program.
 
 **RESULTS**
 This analysis consisits of a [story on Tableau Public](https://public.tableau.com/authoring/NYCCitibikeChallenge_16489552189930/Story1#1)
-
+This table compared users vs subsribers bike useage. It seems that subscribers used bikes more often during commuting hours while customers are utilizing the bikes during weekends.
 ![Tableau Images/Checkout Times for Users.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Checkout%20Times%20for%20Users.png)
 
 
@@ -22,10 +22,10 @@ This analysis consisits of a [story on Tableau Public](https://public.tableau.co
 
 ![Tableau Images/Trips by Gender.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender.png)
 
-
+This analytical table shows the use of bikes per hour by the days of the week.  The data shows that there is more use early mornings and evenings on week days and heavy use throughout the weekend days.
 ![Tableau Images/Trips by gender by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender%20by%20weekday.png)
 
-This analytical table shows the use of bikes per hour by the days of the week.  The data shows that there is more use early mornings and evenings on week days and heavy use throughout the weekend days.
+
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
 
 
