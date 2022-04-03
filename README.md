@@ -11,4 +11,4 @@ Software: Python, Jupyter Notebook, Tableau
 ##RESULTS
 ####This analysis consisits of a [story on Tableau Public](https://public.tableau.com/authoring/NYCCitibikeChallenge_16489552189930/Story1#1)
 
--[Analysis 1](Images/Checkout Times for Users.png)-
+-[Analysis 1](Tableau Images/Checkout Times for Users.png)-
