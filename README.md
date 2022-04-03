@@ -28,7 +28,7 @@ This image shows a line graph comparing genders and time of day that the bike sh
 
 **Visual 3**
 
-This graphic compares the trips by weekday, hourly useage, and use by male, female, and unknown genders.
+This analytical table shows the use of bikes per hour by the days of the week.  The data shows that there is more use early mornings and evenings on week days and heavy use throughout the weekend days.
 
 ![Tableau Images/Trips by Gender.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender.png)
 
