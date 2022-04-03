@@ -19,9 +19,9 @@ This table compared users vs subsribers bike useage. It seems that subscribers u
 ![Tableau Images/Checkout Times for Users.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Checkout%20Times%20for%20Users.png)
 
 
+**Visual 2**
 
-
-
+This image shows a line graph comparing genders and time of day that the bike sharing program is used and the trip duration for the user.  It appears that males are the dominant users and have a longer ride duration than female riders.
 
 ![Tableau Images/Checkout Times by Gender.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Checkout%20Times%20by%20Gender.png)
 
