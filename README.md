@@ -26,4 +26,4 @@ Software: Python, Jupyter Notebook, Tableau
 ![Tableau Images/Trips by gender by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender%20by%20weekday.png)
 
 
-![Tableau Images/Trips by weekday.png]
+![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
