@@ -41,13 +41,19 @@ This analysis compares the useage between customers and subscribers, with gender
 **Visual 5**
 This table shows the use of bikes according to start and stop time by the hours of the day and days of the week.  It appears that weekday commuting hours and weekend mid morning to evening hours see the peak use.
 
-**Visual 6**
-
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
 
 
+**Visual 6**
+
+The bar graph is an easy way to solidify that commuting hours are the peak times for the ride share program.
+
 ![Tableau Images/August peak hours.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/August%20peak%20hours.png)
 
+
+**Visual 7**
+
+These two tables compare the top starting and ending locations for riders.  It is noticeable that both the starting and ending locations are equally active areas.  
 ![Tableau Images/top starting locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20starting%20locations.png)
 
 ![Tableau Images/top ending locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20ending%20locations.png)
