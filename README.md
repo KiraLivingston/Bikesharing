@@ -18,4 +18,4 @@ Software: Python, Jupyter Notebook, Tableau
 
 
 
-![Tableau Images/Checkout Times by Gender.png](
+![Tableau Images/Checkout Times by Gender.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Checkout%20Times%20by%20Gender.png)
