@@ -34,9 +34,11 @@ This analytical table shows the use of bikes per hour by the days of the week.  
 
 **Visual 4**
 
-This analytical table shows the use of bikes per hour by the days of the week.  The data shows that there is more use early mornings and evenings on week days and heavy use throughout the weekend days.
+This analysis compares the useage between customers and subscribers, with gender use, and the breakdown of the days of the week. It seems that male subscribers tend to use the rideshare the most.
+
 ![Tableau Images/Trips by gender by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender%20by%20weekday.png)
 
+**Visual 5**
 
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
 
