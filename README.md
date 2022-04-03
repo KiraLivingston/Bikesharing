@@ -27,3 +27,10 @@ This analysis consisits of a [story on Tableau Public](https://public.tableau.co
 
 
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
+
+
+![Tableau Images/August peak hours.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/August%20peak%20hours.png)
+
+![Tableau Images/top starting locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20starting%20locations.png)
+
+![Tableau Images/top ending locations.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/top%20ending%20locations.png)
