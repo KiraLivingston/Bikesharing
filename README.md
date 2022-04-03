@@ -25,7 +25,7 @@ This analysis consisits of a [story on Tableau Public](https://public.tableau.co
 
 ![Tableau Images/Trips by gender by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20gender%20by%20weekday.png)
 
-
+This analytical table shows the use of bikes per hour by the days of the week.  The data shows that there is more use early mornings and evenings on week days and heavy use throughout the weekend days.
 ![Tableau Images/Trips by weekday.png](https://github.com/KiraLivingston/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday.png)
 
 
