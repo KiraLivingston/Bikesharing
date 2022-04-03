@@ -11,6 +11,8 @@ Investors from Des Moines are interested in creating a new bike-sharing program.
 **RESULTS**
 This analysis consisits of a [story on Tableau Public](https://public.tableau.com/authoring/NYCCitibikeChallenge_16489552189930/Story1#1)
 
+
+
 **Visual 1**
 
 This table compared users vs subsribers bike useage. It seems that subscribers used bikes more often during commuting hours while customers are utilizing the bikes during weekends.
